@@ -9,4 +9,6 @@
 - [x] TOS (Need more enhancment!)
 - [ ] Documentation
 - [ ] API Docs
+- [ ] FAQ
+- [ ] Contact Us
 - [ ] About Us
